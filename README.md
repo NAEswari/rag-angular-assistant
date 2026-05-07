@@ -8,7 +8,9 @@ The application provides context-grounded Angular answers using semantic search 
 
 ## 📸 Demo
 
-![RAG Assistant Demo](screenshots/demo.png)
+<p align="center">
+  <img src="screenshots/demo.png" width="900"/>
+</p>
 
 ---
 
