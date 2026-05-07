@@ -1,0 +1,28 @@
+Angular is a TypeScript-based front-end framework developed by Google.
+
+Angular applications are built using components. Each component consists of:
+- HTML template
+- TypeScript logic
+- CSS styles
+
+Change Detection:
+Angular uses a change detection mechanism to update the DOM when application state changes. It uses Zone.js to detect async operations.
+
+Performance Optimization:
+- Use OnPush change detection strategy
+- Lazy load modules
+- Use trackBy in ngFor
+- Avoid unnecessary bindings
+- Use pure pipes
+
+Lazy Loading:
+Lazy loading allows modules to be loaded only when required, reducing initial load time and improving performance.
+
+Dependency Injection:
+Angular has a built-in dependency injection system that allows services to be injected into components.
+
+Routing:
+Angular Router enables navigation between views and supports lazy loading of modules.
+
+RxJS:
+Angular heavily uses RxJS for reactive programming using Observables.
