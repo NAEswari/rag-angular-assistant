@@ -6,6 +6,12 @@ The application provides context-grounded Angular answers using semantic search 
 
 ---
 
+## 📸 Demo
+
+![RAG Assistant Demo](screenshots/demo.png)
+
+---
+
 # 🚀 Features
 
 - Local LLaMA3 inference using Ollama
