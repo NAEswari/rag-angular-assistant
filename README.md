@@ -252,7 +252,7 @@ reducing initial load time and improving application performance.
 
 NA Eswari
 
-Senior Full Stack / Angular Architect  
+Full Stack / Angular Architect  
 AI-driven Engineering | GenAI | MCP | RAG | Agent Systems
 
 ---
